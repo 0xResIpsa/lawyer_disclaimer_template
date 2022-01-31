@@ -3,7 +3,7 @@ autonomous law disclosure and disclaimer template (lawyer version)
 
 ***DISCLAIMERS FOLLOW: Please review and be advised of the following:*** 
 
-I am a lawyer admitted to practice in [List Jxd].  
+I am a lawyer admitted to practice in New York and Washington, DC.  
 
 **DISCLAIMER OF ATTORNEY – CLIENT RELATIONSHIP** 
 
@@ -23,9 +23,7 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
 
-* [LeXpunk/L3X disclosure] 
-
-* [Other] 
+* None
  
 
 I also hold non-immaterial amounts (by portfolio %) of [LIST] & various stablecoins 
